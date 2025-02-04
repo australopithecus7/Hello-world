@@ -1,0 +1,53 @@
+WEBSITES:
+    YouTube video : https://www.youtube.com/watch?v=NfvtQ2p5QG4
+    random person image : "https://randomuser.me/api/portraits/men/nn.jpg"
+    icons link : https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css"
+		Web Development 2024: https://www.youtube.com/watch?v=8sXRyHI3bLw&t=194s
+		Icon finder website : https://www.iconfinder.com/
+		Figma helps design and development teams build great products, together : https://www.figma.com/
+		CSS extension language : 
+
+
+VISUAL STUDIO:
+	Type &lorem(nnnn)
+	open in live browser : right click - open in live browser
+
+
+HTML:
+	icons reference : <i class="bi bi-twitter"></i> (with link above)
+	Use ! to initially format html file or doc + TAB
+	type link and select link:css to add style link
+	Type script to add external or internal javascript
+	Use "defer" with link to javascript in <head> : <script defer src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js">
+	Relative paths make use of two special symbols, a dot (.) and a double dot (..), which translate into the current directory and the parent directory. 
+	Double dots are used for moving up in the hierarchy. A single dot represents the current directory.
+
+
+CSS:
+
+
+JAVASCRIPT:
+		Type javascript into webdev conole to run it
+		`var` is used to declare variables with function or global scope, 
+		`let` is used to declare variables with block scope and reassignable value
+		`const` is used to declare variables with block scope and constant (read-only) value.
+		order of operation B I D M A S
+		Value++ - adds 1, Value += 11, also -, *, /
+		Template string: let message = `The blog called ${title} by ${author} has ${likes} likes`; - NOTE ` not '
+		use continue and break in for loop
+		Arrow function Basic Syntax : const add = (a, b) => a + b;
+		If the function has only one parameter, you can omit the parentheses : const greet = name => `Hello, ${name}!`;
+		For functions with no parameters, use empty parentheses : const sayHello = () => 'Hello!';
+		Switch ... case statements require break to break out of single case
+		To find selector for element : Elements -> select element - right click -> copy -> copy selector
+		JQUERY CDN : https://releases.jquery.com/
+
+
+
+
+
+
+
+
+
+
